@@ -1,0 +1,27 @@
+{
+  "template": "1",
+  "style": "brand",
+  "base_url": "https://jakelabate.github.io/jay-cannone-real-estate/",
+  "pages": {
+    "about.html": {
+      "image": "img/og/about.png",
+      "fingerprint": "274ff1d965388e8f",
+      "title": "About Jay Cannone | A Fairfield County Real Estate Tradition"
+    },
+    "contact.html": {
+      "image": "img/og/contact.png",
+      "fingerprint": "3267d297bca9a33e",
+      "title": "Contact Jay Cannone | Trumbull, CT Real Estate Broker"
+    },
+    "index.html": {
+      "image": "img/og/index.png",
+      "fingerprint": "750c4d6f7792880d",
+      "title": "Jay Cannone | Trumbull CT Real Estate Broker, William Raveis"
+    },
+    "testimonials.html": {
+      "image": "img/og/testimonials.png",
+      "fingerprint": "63224cc9d5af2ed3",
+      "title": "Client Testimonials | Jay Cannone, Trumbull CT Realtor"
+    }
+  }
+}
